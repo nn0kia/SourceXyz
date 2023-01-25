@@ -1,8 +1,9 @@
 local plr = game.Players.LocalPlayer
-if plr.Name == "Po2_z" or plr.Name == "ALPHA817T" or plr.Name == "S_Zow" then
+if plr.Name == "Po2_z" or plr.Name == "ALPHA817T" or plr.Name == "S_Zow" or plr.Name == "ayooob_13" then
 print("شكرا لشرائك البريموم")
 else
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XX011X112/klat-ya-skid-7sn-mstoak/main/Po2_z"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XX011X112/klat-ya-skid-7sn-mstoak/main/S_Zow"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XX011X112/klat-ya-skid-7sn-mstoak/main/ALPHA817T"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XX011X112/klat-ya-skid-7sn-mstoak/main/ayooob_13"))()
 end
